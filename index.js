@@ -20,6 +20,18 @@ try{
         cout(e);   
     }
     
+    function test()
+    {
+        cout("hello");
+    }
+    
+    function test1(num1,num2)
+    {
+        return num1+num2;
+    }
+    
+    cout(test1(num1,num2));
+    
     
     
 }catch(err)
