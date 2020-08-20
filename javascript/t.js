@@ -1,5 +1,0 @@
-}
-catch(err)
-{
-    cout("hello");
-}
