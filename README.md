@@ -13,14 +13,7 @@ Debugging is not easy. But fortunately, all modern browsers have a built-in Java
 **Debugging code using this tool**
 Using this tool you don't have to launch Browser developer tool.
 just simply type your code in **index.js** and run **index.html** to see output
-### What is cout()
-cout is method to print or display output.  
-    
-    let a = 5;
-    let b = 5;
-    //inseted of console.log(); we use cout()
-    cout(a+b);
-    
+
 
 ### Installation
 
@@ -31,14 +24,12 @@ cout is method to print or display output.
 **Step 1** :
 Browse to javascript folder then open **index.js** file write your code in **try** block
 
-![N|Solid](https://vaibhavpratapsingh.com/github/assets/javascript-console/git%201.PNG)
-
  **Step 2** :
 Save and open **index.html** in browser
 
 ### Free Software, Hell Yeah!
 
 Author : **vaibhav pratap singh**
-email : hey@vaibhavprtapsingh.com
+email : vaibhav6bab@outlook.com
 
  
